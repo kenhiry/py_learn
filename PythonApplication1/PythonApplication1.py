@@ -11,5 +11,6 @@ def main():
     for i in range(0, 1800, 12):
         s = make_dot_string(i)
         print(s)
+		print(s)
 
 main()
