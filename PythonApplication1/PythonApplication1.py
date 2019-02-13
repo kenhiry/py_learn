@@ -12,5 +12,6 @@ def main():
         s = make_dot_string(i)
         print(s)
 		print(s)
+		print(s)
 
 main()
