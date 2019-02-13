@@ -13,5 +13,5 @@ def main():
         print(s)
 		print(s)
 		print(s)
-		print(s)
+
 main()
